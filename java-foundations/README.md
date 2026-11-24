@@ -9,3 +9,4 @@ focus on understanding language behavior rather than on framework abstractions.
 ## Modules
 
 - [01 - JVM execution](01-jvm-execution/README.md)
+- [02 - Classes, objects and constructors](02-classes-objects/README.md)
