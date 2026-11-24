@@ -35,8 +35,10 @@ public class Main {
 
     private static void runTests(Employee first, Employee second,
                                  Employee third, Employee defaultEmployee) {
-        if (first.getSalary() == 55000.0) {
-            System.out.println("Test passed: salary increase updated only the first employee.");
+        if (first.getSalary() == 55000.0
+                && second.getSalary() == 45000.0
+                && third.getSalary() == 52000.0) {
+            System.out.println("Test passed: salary increase changed only the first employee.");
         } else {
             System.out.println("Test failed: salary increase.");
         }

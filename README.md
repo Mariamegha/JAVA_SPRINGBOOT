@@ -13,6 +13,7 @@ beginner-friendly examples and short daily learning logs.
 
 - [Java foundations](java-foundations/README.md)
 - [01 - JVM execution](java-foundations/01-jvm-execution/README.md)
+- [02 - Classes, objects and constructors](java-foundations/02-classes-objects/README.md)
 
 This repository starts with standard Java and does not use Spring Boot,
 external libraries or Java packages in its current foundational exercises.
